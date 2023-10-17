@@ -10,6 +10,7 @@ If you want to try:
 - Create a file 'layersToDownload.txt' in 'workingdir' with the layer titles you want to download. The first line in this file must be the destination directory you want to store downloaded layers. See the 'layersToDownload.txt' example file in this repo
 - Set 'mode' = 2 and run the script again. It will (hopefully) download your layers to 'workingdir' and store a ZIP copy of the layers under 'workingdir'/zipcopies
 - Suggestions: Run the two modes with the actual 'servicelink' to check how it works. Check code line 62
+- Open a issue to leave any suggestion if you want. Or leave these in the twitter conversation if you dont have a github account.
   
   
 # TODO
